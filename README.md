@@ -101,7 +101,6 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 
 
  <details><summary>Credits 👇</summary>
-<h1>MINE APEX OR xiv3r </h1>
 
 * Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
 * Modified 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
